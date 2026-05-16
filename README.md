@@ -1,46 +1,52 @@
 # Vyshnavi Kaki Portfolio
 
-A modern responsive Machine Learning and Data Science portfolio website built using React, Vite, Tailwind CSS, and Framer Motion.
+A modern and responsive Machine Learning & Data Science portfolio website built using React, Vite, and Tailwind CSS.
 
 ## Live Portfolio
-https://your-vercel-link.vercel.app
+
+https://your-vercel-url.vercel.app
 
 ## GitHub Repository
-https://github.com/yourusername/yourrepo
+
+https://github.com/vyshnavi841/vyshnavi-portfolio
+
+---
 
 ## Features
 
-- Fully Responsive Design
-- Modern UI/UX
-- Animated Sections
-- Tailwind CSS Styling
-- Framer Motion Animations
-- Machine Learning Project Showcase
-- Skills & Certifications
-- Contact Section
+- Responsive modern UI
+- Machine Learning portfolio showcase
+- GitHub project integration
+- Skills and experience sections
+- Animated project cards
+- Tailwind CSS styling
+- Optimized React component structure
+
+---
 
 ## Tech Stack
 
 - React
 - Vite
 - Tailwind CSS
-- Framer Motion
 - JavaScript
 - HTML5
 - CSS3
+
+---
 
 ## Run Locally
 
 Clone the project:
 
 ```bash
-git clone https://github.com/yourusername/yourrepo.git
+git clone https://github.com/vyshnavi841/vyshnavi-portfolio.git
 ```
 
 Go to project directory:
 
 ```bash
-cd portfolio
+cd vyshnavi-portfolio
 ```
 
 Install dependencies:
@@ -49,12 +55,16 @@ Install dependencies:
 npm install
 ```
 
-Start development server:
+Run development server:
 
 ```bash
 npm run dev
 ```
 
+---
+
 ## Author
 
 Vyshnavi Kaki
+
+Machine Learning Engineer | Data Science Undergraduate
