@@ -4,7 +4,7 @@ A modern and responsive Machine Learning & Data Science portfolio website built 
 
 ## Live Portfolio
 
-https://your-vercel-url.vercel.app
+https://vyshnaviportfolio-psi.vercel.app/
 
 ## GitHub Repository
 
