@@ -22,7 +22,7 @@ function Contact() {
           </a>
 
           <a
-            href="https://github.com/"
+            href="https://github.com/vyshnavi841"
             target="_blank"
             className="hover:text-cyan-400"
           >
