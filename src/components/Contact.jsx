@@ -30,7 +30,7 @@ function Contact() {
           </a>
 
           <a
-            href="https://linkedin.com/"
+            href="https://www.linkedin.com/in/vyshnavi-kaki-604177291/"
             target="_blank"
             className="hover:text-cyan-400"
           >
